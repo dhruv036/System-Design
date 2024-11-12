@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "99fa28bc83046da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e2b71154addcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538b7d408768570b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Diagram/System Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "System Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2e731f0274c871c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dae128c386fcb08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe1cfbb7db607dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e887e05cedf15b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6161cab756eb263b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f90cb4cab09ca4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c581decaa053259a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f3850f586493aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diagram/System Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for System Design"
+            }
+          },
+          {
+            "id": "447a12288df662d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diagram/System Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from System Design"
+            }
+          },
+          {
+            "id": "e54cb5281d848a5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f70a9a353729a43e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diagram/System Design.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of System Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "538b7d408768570b",
+  "lastOpenFiles": [
+    "Diagram/System Design.md",
+    "Images/Pasted Image 20230412223406_526.png",
+    "Images/Pasted Image 20241013041620_647.png",
+    "Images/Pasted Image 20230414122455_536.png",
+    "Images/Screenshot 2024-10-13 at 5.46.07 PM.png",
+    "Images/Screenshot 2024-10-20 at 11.19.07 PM.png",
+    "Images/Pasted Image 20230407215735_962.png",
+    "Images/Pasted Image 20230412223028_149.png",
+    "Images/Pasted Image 20230321113710_438.png",
+    "Images/Screenshot 2024-10-20 at 1.54.30 PM.png",
+    "Images/Pasted Image 20230407221510_195.png",
+    "Images"
+  ]
+}
